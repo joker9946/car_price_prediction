@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  4 00:34:14 2020
-
-@author: yash
-"""
-
 from flask import Flask,render_template,request
 import jsonify
 import requests
